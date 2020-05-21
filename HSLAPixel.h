@@ -7,8 +7,7 @@
 
 namespace uiuc {
 
-  // Put your HSLAPixel class definition here.
-  // (Remember to end it with a semicolon!)
+ 
 class HSLAPixel{
 	public:
 		double h;// it is for hue varies between 0-360
